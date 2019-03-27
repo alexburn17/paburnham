@@ -16,9 +16,9 @@ keep_files:
 # Site settings
 title: Airspace
 subtitle: "A free HTML5 agency template"
-url: "https://alexburn17.github.io/CompBeeLab/" # the base hostname & protocol for your site
+url: "https://alexburn17.github.io/paburnham/" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/CompBeeLab/"
+baseurl: "/paburnham/"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
