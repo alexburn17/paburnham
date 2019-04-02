@@ -20,6 +20,7 @@ url: "https://alexburn17.github.io/paburnham/" # the base hostname & protocol fo
 baseurl: "/paburnham/"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
+encoding: UTF-8
 
 # Build settings
 markdown: kramdown
